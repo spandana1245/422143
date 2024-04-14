@@ -1,0 +1,22 @@
+more
+Apaar 
+Ayush Rajput
+Deepak
+HemantDeepak
+Hemantviewing multiple files
+::::::::::::::
+file1.txt
+::::::::::::::
+Apaar 
+Ayush Rajput
+Deepak
+Hemant::::::::::::::
+file2.txt
+::::::::::::::
+Ayush Rajput
+Deepak
+Hemantviewing from end
+Apaar 
+Ayush Rajput
+Deepak
+Hemant

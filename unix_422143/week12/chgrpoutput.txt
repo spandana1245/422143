@@ -1,0 +1,4 @@
+chgrp
+spandana adm dialout cdrom floppy sudo audio dip video plugdev netdev lpadmin
+-rwxrwxrwx 1 spandana spandana 0 Apr  4 18:46 f1.txt
+changing groups of of multiple files

@@ -1,0 +1,6 @@
+tput
+[31mchanged text color succesfully
+[42mchanged background color succesfully
+Terminal Width: 120
+Terminal Height: 30
+[H[2J[3Jcleared the terminal screen succesfully

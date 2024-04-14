@@ -1,0 +1,68 @@
+file1
+Apaar 
+Ayush Rajput
+Deepak
+Hemantfile2
+Apaar
+Hemant
+Lucky
+Pranjal Thakraldiff_commands
+1,4c1,4
+< Apaar 
+< Ayush Rajput
+< Deepak
+< Hemant
+\ No newline at end of file
+---
+> Apaar
+> Hemant
+> Lucky
+> Pranjal Thakral
+\ No newline at end of file
+*** file1.txt	2024-03-30 18:44:39.073287700 +0530
+--- file2.txt	2024-03-30 18:44:42.781863400 +0530
+***************
+*** 1,4 ****
+! Apaar 
+! Ayush Rajput
+! Deepak
+! Hemant
+\ No newline at end of file
+--- 1,4 ----
+! Apaar
+! Hemant
+! Lucky
+! Pranjal Thakral
+\ No newline at end of file
+--- file1.txt	2024-03-30 18:44:39.073287700 +0530
++++ file2.txt	2024-03-30 18:44:42.781863400 +0530
+@@ -1,4 +1,4 @@
+-Apaar 
+-Ayush Rajput
+-Deepak
+-Hemant
+\ No newline at end of file
++Apaar
++Hemant
++Lucky
++Pranjal Thakral
+\ No newline at end of file
+1,4c1,4
+< Apaar 
+< Ayush Rajput
+< Deepak
+< Hemant
+\ No newline at end of file
+---
+> Apaar
+> Hemant
+> Lucky
+> Pranjal Thakral
+\ No newline at end of file
+2,3d1
+< Ayush Rajput
+< Deepak
+4a3,4
+> Lucky
+> Pranjal Thakral
+\ No newline at end of file

@@ -1,0 +1,5 @@
+wc
+ 3  5 36 file1.txt
+3 file1.txt
+5 file1.txt
+36 file1.txt

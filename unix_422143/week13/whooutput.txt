@@ -1,0 +1,11 @@
+who
+logged in users
+spandana pts/1        2024-04-11 13:58
+number of logged in users
+spandana
+# users=1
+Display idle time and PID of each logged-in user:
+spandana pts/1        2024-04-11 13:58 02:18         409
+Display user login history:
+LOGIN    tty1         2024-04-11 13:58               264 id=tty1
+LOGIN    console      2024-04-11 13:58               259 id=cons

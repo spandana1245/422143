@@ -1,0 +1,21 @@
+dd
+uupercase
+appending some data
+skipping some data using dd command
+Apaar 
+Ayush Rajput
+Deepak
+Hemant
+//output in terminal
+0+1 records in
+0+1 records out
+36 bytes copied, 0.00240866 s, 14.9 kB/s
+0+1 records in
+0+1 records out
+36 bytes copied, 0.00231371 s, 15.6 kB/s
+0+1 records in
+0+1 records out
+36 bytes copied, 0.00329683 s, 10.9 kB/s
+3+1 records in
+0+1 records out
+28 bytes copied, 0.00410479 s, 6.8 kB/s

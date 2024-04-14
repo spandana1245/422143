@@ -1,0 +1,10 @@
+display the kernel name
+Linux
+network node hostname
+SPANDANA
+kernel release
+5.15.146.1-microsoft-standard-WSL2
+kernel version
+#1 SMP Thu Jan 11 04:09:03 UTC 2024
+operating system
+GNU/Linux

@@ -1,0 +1,29 @@
+contents of file1
+Apaar 
+Ayush Rajput
+Deepak
+Hemantcontents of file2.txt
+Apaar
+Hemant
+Lucky
+Pranjal Thakralcomparing two files
+	Apaar
+Apaar 
+Ayush Rajput
+Deepak
+Hemant
+	Hemant
+	Lucky
+	Pranjal Thakral
+Apaar
+Hemant
+Lucky
+Pranjal Thakral
+	Apaar
+Apaar 
+Ayush Rajput
+Deepak
+Hemant
+	Hemant
+	Lucky
+	Pranjal Thakral

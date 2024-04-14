@@ -1,0 +1,2 @@
+write
+write: spandana is not logged in on tty1

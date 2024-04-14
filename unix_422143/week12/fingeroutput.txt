@@ -1,0 +1,15 @@
+Login: spandana       			Name: 
+Directory: /home/spandana           	Shell: /bin/bash
+On since Tue Apr  2 00:12 (IST) on pts/1   8 minutes 2 seconds idle
+     (messages off)
+No mail.
+No Plan.
+ 
+Login     Name       Tty      Idle  Login Time   Office     Office Phone
+spandana            *pts/1       8  Apr  2 00:12
+ 
+Login: spandana       			Name: 
+Directory: /home/spandana           	Shell: /bin/bash
+On since Tue Apr  2 00:12 (IST) on pts/1   8 minutes 2 seconds idle
+     (messages off)
+No mail.

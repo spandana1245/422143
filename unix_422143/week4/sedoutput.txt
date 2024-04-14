@@ -1,0 +1,61 @@
+content of file3.txt
+s01 emp1 10000 25
+s02 emp2 12000 24
+s03 emp3 11000 26
+s04 emp4 13000 27
+s05 emp5 14000 21
+s06 emp6 20000 28
+s07 emp7 30000 29
+s08 emp8 15000 23
+changing s01 to 01 using sed command
+01 emp1 10000 25
+s02 emp2 12000 24
+s03 emp3 11000 26
+s04 emp4 13000 27
+s05 emp5 14000 21
+s06 emp6 20000 28
+s07 emp7 30000 29
+s08 emp8 15000 23
+changing 25 to 21 using sed command
+s01 emp1 10000 21
+s02 emp2 12000 24
+s03 emp3 11000 26
+s04 emp4 13000 27
+s05 emp5 14000 21
+s06 emp6 20000 28
+s07 emp7 30000 29
+s08 emp8 15000 23
+deleting 2nd row using sed command
+s01 emp1 10000 25
+s03 emp3 11000 26
+s04 emp4 13000 27
+s05 emp5 14000 21
+s06 emp6 20000 28
+s07 emp7 30000 29
+s08 emp8 15000 23
+deleting last row
+s01 emp1 10000 25
+s02 emp2 12000 24
+s03 emp3 11000 26
+s04 emp4 13000 27
+s05 emp5 14000 21
+s06 emp6 20000 28
+s07 emp7 30000 29
+deleting rows of some range(1-4)
+s05 emp5 14000 21
+s06 emp6 20000 28
+s07 emp7 30000 29
+s08 emp8 15000 23
+deleting rows from a certain row to last row
+s01 emp1 10000 25
+s02 emp2 12000 24
+s03 emp3 11000 26
+deleting a row with number 22 using sed
+s01 emp1 10000 25
+s02 emp2 12000 24
+s03 emp3 11000 26
+s04 emp4 13000 27
+s05 emp5 14000 21
+s06 emp6 20000 28
+s07 emp7 30000 29
+s08 emp8 15000 23

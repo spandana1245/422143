@@ -1,0 +1,4 @@
+tty
+Current terminal: /dev/pts/0
+Script is running in an interactive terminal.
+crw--w---- 1 spandana tty 136, 0 Apr 11 16:03 /dev/pts/0

@@ -1,0 +1,57 @@
+content of file3.txt
+s01 emp1 10000 25
+s02 emp2 12000 24
+s03 emp3 11000 26
+s04 emp4 13000 27
+s05 emp5 14000 21
+s06 emp6 20000 28
+s07 emp7 30000 29
+s08 emp8 15000 23
+printing selected columns
+s01 10000
+s02 12000
+s03 11000
+s04 13000
+s05 14000
+s06 20000
+s07 30000
+s08 15000
+calculating sum of the column 3
+125000
+15625
+printing sub string in column 1
+01
+02
+03
+04
+05
+06
+07
+08
+printing last column ele using
+25
+24
+26
+27
+21
+28
+29
+23
+awk command using if else condition
+junior
+junior
+junior
+junior
+junior
+senior
+senior
+junior
+awk command using a function
+625
+576
+676
+729
+441
+784
+841
+529
